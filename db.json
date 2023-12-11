@@ -11,6 +11,11 @@
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack.",
       "userId": 1
+    },
+    {
+      "title": "My Dinner Brake Project",
+      "description": "Fishsticks and broccoli :)",
+      "id": 3
     }
   ],
   "tasks": [
